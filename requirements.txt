@@ -1,0 +1,4 @@
+colorama
+sqlite3
+validator_collection
+tabulate
