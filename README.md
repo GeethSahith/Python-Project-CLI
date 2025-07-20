@@ -1,6 +1,5 @@
 # PROJECT TITLE
 MY PROJECT TITLE IS CONTACT MANAGEMENT SYSTEM
-THE VEDIO DEMO'S URL IS : https://youtu.be/4dVEWxCXzXE
 #DESCRIPTION OF THE PROGRAM:
     The Contacts Management System is a Python-based project designed to help users manage their contact information efficiently. The system provides functionality to view, add, update, and delete contacts. All contact data is stored in an SQLite database, ensuring data persistence across sessions.
 
